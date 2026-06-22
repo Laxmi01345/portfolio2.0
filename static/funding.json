@@ -1,0 +1,111 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "individual",
+    "role": "maintainer",
+    "name": "Laxmi Ray",
+    "email": "laxmiray@gmail.com",
+    "description": "I'm Laxmi, a software developer with a focus on the Shopify ecosystem since 2022. I've developed a keen interest in the open-source community and have recently transitioned from contributing to projects like \"python-social-auth\" to actively maintaining the \"etsy-python-sdk\" package, ensuring its quality and performance.",
+    "webpageUrl": {
+      "url": "https://amitray.dev"
+    }
+  },
+  "projects": [
+    {
+      "guid": "ask-docs",
+      "name": "Ask Docs",
+      "description": "AskDocs is a Retrieval-Augmented Generation (RAG) based Document Question Answering system. It allows users to upload a text document, generate semantic embeddings, retrieve relevant context using vector search, and generate grounded answers. ",
+      "webpageUrl": {
+        "url": "https://github.com/amitray007/etsy-python-sdk",
+        "wellKnown": "https://github.com/amitray007/etsy-python-sdk/blob/master/.well-known/funding-manifest-urls"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/Laxmi01345/AskDocs-",
+        "wellKnown": "https://github.com/amitray007/etsy-python-sdk/blob/master/.well-known/funding-manifest-urls"
+      },
+      "licenses": [
+        "MIT"
+      ],
+      "tags": [
+        "etsy",
+        "python",
+        "api",
+        "development",
+        "developer-tools"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "github",
+        "type": "other",
+        "address": "https://github.com/sponsors/amitray007",
+        "description": "Support my projects via GitHub Sponsors program!"
+      }
+    ],
+    "plans": [
+      {
+        "guid": "encouraging-supporter",
+        "status": "active",
+        "name": "⚡ Encouraging",
+        "description": "It's such a friendly way of acknowledging this project's existence and supporting open source technology! Every little bit helps show your support and drives me to improve the software more! 🙂",
+        "amount": 1,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "github"
+        ]
+      },
+      {
+        "guid": "thoughtful-supporter",
+        "status": "active",
+        "name": "☕ Thoughtful: Buys me a couple cups of coffee a month",
+        "description": "Money doesn't grow on trees; I realize this. But throwing a little extra really shows you care about the products and the effort and work that continues to go into them!\n\n📣 In return...\n\n1. You get a a sponsor 🎖️ badge on your profile (internet karma at it's finest!)!\n2. The satisfaction that you've helped sustain the Open Source community you love and rely on!",
+        "amount": 5,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "github"
+        ]
+      },
+      {
+        "guid": "generous-supporter",
+        "status": "active",
+        "name": "💎 Generous",
+        "description": "Your support goes a long way in maintaining all of my projects.\n\n📣 In return...\n\n1. You get all of the perks in Thoughtful Tier package.\n2. You will receive priority support on any enhancement requests and/or bug-fixes you find.",
+        "amount": 10,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "github"
+        ]
+      },
+      {
+        "guid": "serious-supporter",
+        "status": "active",
+        "name": "⭐ Serious",
+        "description": "You are clearly are very serious about supporting one or more of the projects I maintain. I can't thank you enough for this level of sponsorship if you provide it!\n\n📣 In return...\n\n1. You get all of the perks in Generous Tier package.\n2. I'll place your company logo on major repositories or any repository of your choice.",
+        "amount": 50,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "github"
+        ]
+      },
+      {
+        "guid": "life-support-supporter",
+        "status": "active",
+        "name": "🌟 Life-Support",
+        "description": "🥇 You are a hero\n\nI really appreciate this kind of help/support.\n\n📣 In return...\n\n1. You get all of the perks; I can't offer anymore. 😉",
+        "amount": 100,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": [
+          "github"
+        ]
+      }
+    ],
+    "history": []
+  }
+}
