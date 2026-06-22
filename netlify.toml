@@ -1,8 +1,7 @@
 [build]
-  command = "npm run build"
+  command = "npx gatsby clean && npx gatsby build"
   publish = "public"
 
 [build.environment]
   NODE_VERSION = "18"
-  NODE_OPTIONS = "--openssl-legacy-provider"
   COREPACK_ENABLE_STRICT = "0"
